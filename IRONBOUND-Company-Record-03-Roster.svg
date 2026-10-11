@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 794 1123"><title>IRONBOUND Company Record — Personnel &amp; Unit Roster</title>
+<rect x="0" y="0" width="794" height="1123" fill="white" stroke="none" stroke-width="0.8"/>
+<rect x="22" y="22" width="750" height="1079" fill="white" stroke="#20272b" stroke-width="1.3"/>
+<rect x="30" y="30" width="734" height="49" fill="#20272b" stroke="#20272b" stroke-width="0.8"/>
+<text x="42" y="59" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="bold" fill="white">IRONBOUND</text>
+<text x="444" y="51" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="bold" fill="white">COMPANY RECORD</text>
+<text x="444" y="68" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#e9e0c7">PERSONNEL &amp; UNIT ROSTER</text>
+<path d="M30,87 L764,87" fill="none" stroke="#9b8755" stroke-width="2"/>
+<text x="30" y="109" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">COMPANY</text>
+<path d="M92,109 L579,109" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="602" y="109" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">UPDATED</text>
+<path d="M659,109 L764,109" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M30,1074 L764,1074" fill="none" stroke="#9b8755" stroke-width="0.7"/>
+<text x="30" y="1090" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">IRONBOUND  /  CAMPAIGN RECORD</text>
+<text x="647" y="1090" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">SHEET 3 OF 3</text>
+<rect x="30" y="126" width="734" height="346" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="126" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="142" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">PILOT ROSTER — FOUNDERS, HIRES &amp; RESERVES</text>
+<text x="45" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">NAME / CALLSIGN</text>
+<text x="247" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">TYPE</text>
+<path d="M242,153 L242,464" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="290" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">G / P</text>
+<path d="M285,153 L285,464" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="340" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">PAY / DAY</text>
+<path d="M335,153 L335,464" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="423" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">STATUS</text>
+<path d="M418,153 L418,464" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="544" y="167" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">MECH / LOCATION</text>
+<path d="M539,153 L539,464" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,175 L754,175" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,199 L754,199" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,223 L754,223" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,247 L754,247" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,271 L754,271" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,295 L754,295" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,319 L754,319" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,343 L754,343" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,367 L754,367" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,391 L754,391" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,415 L754,415" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,439 L754,439" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,463 L754,463" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="482" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="normal" fill="#20272b">TYPE: Founder / Hired. STATUS: Ready, injured, training, missing, captured, or leave.</text>
+<rect x="30" y="501" width="734" height="346" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="501" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="517" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">BATTLEMECH ROSTER — ACTIVE, RESERVE &amp; STORED</text>
+<text x="45" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">ASSET ID</text>
+<text x="120" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">CHASSIS / VARIANT</text>
+<path d="M115,528 L115,839" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="322" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">TONS</text>
+<path d="M317,528 L317,839" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="365" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">ASSIGNED PILOT</text>
+<path d="M360,528 L360,839" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="516" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">STATUS</text>
+<path d="M511,528 L511,839" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="624" y="542" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">LOCATION</text>
+<path d="M619,528 L619,839" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,550 L754,550" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,574 L754,574" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,598 L754,598" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,622 L754,622" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,646 L754,646" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,670 L754,670" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,694 L754,694" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,718 L754,718" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,742 L754,742" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,766 L754,766" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,790 L754,790" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,814 L754,814" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,838 L754,838" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="857" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="normal" fill="#20272b">STATUS: Operational, damaged, under repair, recovery pending, or stored. Use separate Mech Records.</text>
+<rect x="30" y="877" width="734" height="178" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="877" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="893" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">OTHER UNITS &amp; TRANSPORT ASSETS — OPTIONAL MODULES</text>
+<text x="45" y="918" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">ASSET / UNIT</text>
+<text x="286" y="918" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">TYPE</text>
+<path d="M281,904 L281,1047" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="386" y="918" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">CREW / STATUS</text>
+<path d="M381,904 L381,1047" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="556" y="918" font-family="DejaVu Sans,sans-serif" font-size="7.5" font-weight="bold" fill="#20272b">LOCATION / RECORD REF.</text>
+<path d="M551,904 L551,1047" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,926 L754,926" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,950 L754,950" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,974 L754,974" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,998 L754,998" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,1022 L754,1022" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M40,1046 L754,1046" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="1061" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="normal" fill="#20272b">Repeat this roster page for additional personnel or units. Keep current locations for all reserves.</text>
+</svg>

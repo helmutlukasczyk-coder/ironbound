@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210mm" height="297mm" viewBox="0 0 794 1123"><title>IRONBOUND Company Record — Company Overview</title>
+<rect x="0" y="0" width="794" height="1123" fill="white" stroke="none" stroke-width="0.8"/>
+<rect x="22" y="22" width="750" height="1079" fill="white" stroke="#20272b" stroke-width="1.3"/>
+<rect x="30" y="30" width="734" height="49" fill="#20272b" stroke="#20272b" stroke-width="0.8"/>
+<text x="42" y="59" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="bold" fill="white">IRONBOUND</text>
+<text x="444" y="51" font-family="DejaVu Sans,sans-serif" font-size="14" font-weight="bold" fill="white">COMPANY RECORD</text>
+<text x="444" y="68" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#e9e0c7">COMPANY OVERVIEW</text>
+<path d="M30,87 L764,87" fill="none" stroke="#9b8755" stroke-width="2"/>
+<text x="30" y="109" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">COMPANY</text>
+<path d="M92,109 L579,109" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="602" y="109" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">UPDATED</text>
+<path d="M659,109 L764,109" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M30,1074 L764,1074" fill="none" stroke="#9b8755" stroke-width="0.7"/>
+<text x="30" y="1090" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">IRONBOUND  /  CAMPAIGN RECORD</text>
+<text x="647" y="1090" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">SHEET 1 OF 3</text>
+<rect x="30" y="126" width="734" height="185" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="126" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="142" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">IDENTITY &amp; CAMPAIGN CALENDAR</text>
+<rect x="40" y="160" width="351" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="174" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">COMPANY NAME</text>
+<path d="M49,198 L382,198" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="401" y="160" width="353" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="410" y="174" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">EMBLEM / CALLSIGN</text>
+<path d="M410,198 L745,198" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="40" y="207" width="351" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="221" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">PRINCIPLE 1</text>
+<path d="M49,245 L382,245" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="401" y="207" width="353" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="410" y="221" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">PRINCIPLE 2</text>
+<path d="M410,245 L745,245" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="40" y="254" width="176" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="268" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">CAMPAIGN START</text>
+<path d="M49,292 L207,292" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="216" y="254" width="178" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="225" y="268" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">FINAL CAMPAIGN DAY</text>
+<path d="M225,292 L385,292" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="394" y="254" width="180" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="403" y="268" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">CURRENT DATE</text>
+<path d="M403,292 L565,292" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="574" y="254" width="180" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="583" y="268" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">NEXT WEEKLY CHECK</text>
+<path d="M583,292 L745,292" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="30" y="323" width="734" height="120" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="323" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="339" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">LOCATION &amp; ACTIVE MODULES</text>
+<rect x="40" y="357" width="351" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="371" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">CURRENT PLANET / TRAVEL LEG</text>
+<path d="M49,395 L382,395" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="401" y="357" width="353" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="410" y="371" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">DESTINATION / ARRIVAL DATE</text>
+<path d="M410,395 L745,395" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="41" y="419" width="9" height="9" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="55" y="428" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Vehicles</text>
+<rect x="174" y="419" width="9" height="9" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="188" y="428" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Infantry</text>
+<rect x="301" y="419" width="9" height="9" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="315" y="428" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Aerospace</text>
+<rect x="445" y="419" width="9" height="9" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="459" y="428" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Expanded deployment</text>
+<rect x="30" y="455" width="734" height="122" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="455" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="471" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">COMPANY FINANCES &amp; REPUTATION</text>
+<rect x="40" y="489" width="234" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="503" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">AVAILABLE FUNDS / C-BILLS</text>
+<path d="M49,527 L265,527" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="274" y="489" width="239" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="283" y="503" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">OUTSTANDING DEBT / C-BILLS</text>
+<path d="M283,527 L504,527" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="513" y="489" width="241" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="522" y="503" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">DAILY OPERATING COST / C-BILLS</text>
+<path d="M522,527 L745,527" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="562" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="bold" fill="#20272b">REPUTATION (0–100):</text>
+<path d="M175,562 L260,562" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="294" y="562" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="bold" fill="#20272b">RECOGNITION:</text>
+<path d="M389,562 L545,562" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="566" y="562" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="bold" fill="#20272b">MAX. TIER:</text>
+<path d="M640,562 L754,562" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="30" y="589" width="734" height="218" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="589" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="605" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">FACTION STANDING</text>
+<text x="41" y="628" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">FACTION / EMPLOYER</text>
+<text x="565" y="628" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">STANDING</text>
+<text x="653" y="628" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">NOTES</text>
+<text x="41" y="645" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Capellan Confederation</text>
+<path d="M41,649 L754,649" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="660" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Draconis Combine</text>
+<path d="M41,664 L754,664" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="675" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Federated Suns</text>
+<path d="M41,679 L754,679" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="690" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Free Worlds League</text>
+<path d="M41,694 L754,694" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="705" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Lyran Commonwealth</text>
+<path d="M41,709 L754,709" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="720" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">ComStar</text>
+<path d="M41,724 L754,724" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="735" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Magistracy of Canopus</text>
+<path d="M41,739 L754,739" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="750" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Taurian Concordat</text>
+<path d="M41,754 L754,754" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="765" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b">Outworlds Alliance</text>
+<path d="M41,769 L754,769" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="780" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b"></text>
+<path d="M41,784 L754,784" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="795" font-family="DejaVu Sans,sans-serif" font-size="9" font-weight="normal" fill="#20272b"></text>
+<path d="M41,799 L754,799" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M550,617 L550,800" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M641,617 L641,800" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="30" y="819" width="734" height="124" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="819" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="835" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">TRANSPORT &amp; FORCE OVERVIEW</text>
+<rect x="40" y="853" width="351" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="49" y="867" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">DROPSHIP / CHARTER ARRANGEMENT</text>
+<path d="M49,891 L382,891" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="401" y="853" width="353" height="47" fill="white" stroke="#899095" stroke-width="0.8"/>
+<text x="410" y="867" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#59636a">CAPACITY / OCCUPIED / FREE</text>
+<path d="M410,891 L745,891" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="41" y="923" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">READY MECHS:</text>
+<path d="M140,923 L211,923" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="231" y="923" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">READY PILOTS:</text>
+<path d="M336,923 L407,923" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<text x="426" y="923" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">ASSETS LEFT BEHIND / LOCATION:</text>
+<path d="M649,923 L754,923" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<rect x="30" y="955" width="734" height="105" fill="white" stroke="#899095" stroke-width="0.8"/>
+<rect x="30" y="955" width="734" height="24" fill="#eee9dc" stroke="#20272b" stroke-width="0.8"/>
+<text x="40" y="971" font-family="DejaVu Sans,sans-serif" font-size="10" font-weight="bold" fill="#20272b">CURRENT COMMITMENTS</text>
+<text x="41" y="991" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">CONTRACT / ACTIVITY</text>
+<text x="462" y="991" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">DEADLINE</text>
+<text x="607" y="991" font-family="DejaVu Sans,sans-serif" font-size="8" font-weight="bold" fill="#20272b">RECORD REF.</text>
+<path d="M41,1016 L754,1016" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+<path d="M41,1047 L754,1047" fill="none" stroke="#adb2b5" stroke-width="0.7"/>
+</svg>

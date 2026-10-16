@@ -7,7 +7,7 @@
 ## Experience Under Fire
 <span id="pilot-tier-veterans"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Veterans-Intro.jpg" alt="Veterans MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Veterans-Intro-v2.jpg" alt="Veterans MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Experience is knowing which risks bring the company home.

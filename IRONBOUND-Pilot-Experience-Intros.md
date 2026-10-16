@@ -7,7 +7,7 @@
 ## First Deployments
 <span id="pilot-tier-rookies"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Rookies-Intro.jpg" alt="Rookies MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Rookies-Intro-v2.jpg" alt="Rookies MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Every veteran once waited for a first command.
@@ -50,7 +50,7 @@ Use the individual entry's printed profile and talent package.
 ## Proven Professionals
 <span id="pilot-tier-regulars"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Regulars-Intro.jpg" alt="Regulars MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Regulars-Intro-v2.jpg" alt="Regulars MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 A dependable pilot makes the difficult look routine.
@@ -93,7 +93,7 @@ Use the individual entry's printed profile and talent package.
 ## Experience Under Fire
 <span id="pilot-tier-veterans"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Veterans-Intro.jpg" alt="Veterans MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Veterans-Intro-v2.jpg" alt="Veterans MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Experience is knowing which risks bring the company home.
@@ -136,7 +136,7 @@ Use the individual entry's printed profile and talent package.
 ## Masters of Their Craft
 <span id="pilot-tier-elites"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Elites-Intro.jpg" alt="Elites MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Elites-Intro-v2.jpg" alt="Elites MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Precision begins long before the first shot.

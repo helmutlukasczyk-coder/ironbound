@@ -7,7 +7,7 @@
 ## Pilot Directory
 <span id="pilot-archive"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Plateau-v2.jpg" alt="Mercenary MechWarriors briefing outdoors on a mountain plateau" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound-archive/main/IRONBOUND-Pilots-Plateau-v2.jpg" alt="Mercenary MechWarriors briefing outdoors on a mountain plateau" /></div>
 
 {{quote
 The machine has a price. The person bringing it home has a name.

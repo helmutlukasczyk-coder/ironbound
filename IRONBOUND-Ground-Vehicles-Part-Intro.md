@@ -7,7 +7,7 @@
 ## Ground Vehicle Records
 <span id="ground-vehicle-archive"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Ground-Vehicles-Column.jpg" alt="Mercenary armored column advancing through a fortified industrial checkpoint, inspired by MechWarrior 5: Mercenaries vehicle designs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Ground-Vehicles-Marauder-v2.jpg" alt="Mercenary armored column advancing through a fortified industrial checkpoint, inspired by MechWarrior 5: Mercenaries vehicle designs" /></div>
 
 {{quote
 A BattleMech may break the line. Armor makes sure it stays broken.

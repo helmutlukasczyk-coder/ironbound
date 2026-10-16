@@ -7,7 +7,7 @@
 ## First Deployments
 <span id="pilot-tier-rookies"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Rookies-Intro.jpg" alt="Rookies MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Rookies-Intro-v2.jpg" alt="Rookies MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Every veteran once waited for a first command.

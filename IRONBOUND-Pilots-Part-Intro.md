@@ -7,7 +7,7 @@
 ## Pilot Directory
 <span id="pilot-archive"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Archive.jpg" alt="Four mercenary MechWarriors briefing in front of a MWO-inspired Thunderbolt" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound-archive/main/IRONBOUND-Pilots-Archive.jpg" alt="Four mercenary MechWarriors briefing in front of a MWO-inspired Thunderbolt" /></div>
 
 {{quote
 The machine has a price. The person bringing it home has a name.

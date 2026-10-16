@@ -7,7 +7,7 @@
 ## Aerospace Fighter Records
 <span id="aerospace-archive"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Aerospace-Archive.jpg" alt="MW5-inspired Leopard DropShip approaching a mercenary spaceport" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound-archive/main/IRONBOUND-Aerospace-Archive.jpg" alt="MW5-inspired Leopard DropShip approaching a mercenary spaceport" /></div>
 
 {{quote
 The sky is another flank. Leave it open, and the enemy will use it.

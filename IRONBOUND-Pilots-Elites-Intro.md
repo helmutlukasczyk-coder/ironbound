@@ -7,7 +7,7 @@
 ## Masters of Their Craft
 <span id="pilot-tier-elites"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Elites-Intro.jpg" alt="Elites MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Elites-Intro-v2.jpg" alt="Elites MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 Precision begins long before the first shot.

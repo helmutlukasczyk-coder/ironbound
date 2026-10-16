@@ -7,7 +7,7 @@
 ## Proven Professionals
 <span id="pilot-tier-regulars"></span>
 
-<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Regulars-Intro.jpg" alt="Regulars MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
+<div class="partArtwork"><img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Pilots-Regulars-Intro-v2.jpg" alt="Regulars MechWarriors with reference-based MWO and MW5 BattleMechs" /></div>
 
 {{quote
 A dependable pilot makes the difficult look routine.

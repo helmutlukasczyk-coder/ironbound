@@ -24,11 +24,11 @@ Nachher: Text unverändert; diesen Block am Seitenende unmittelbar vor dem näch
 
 ```md
 <div class="technicalArt" style="position:absolute;left:17mm;bottom:23mm;width:176mm;height:70mm;margin:0;">
-<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Defense-Awesome-v1.jpg" alt="Awesome AWS-8Q defending a settlement in snow" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
+<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Defense-Awesome-v2.jpg" alt="Awesome AWS-8Q defending a settlement in snow" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
 </div>
 ```
 
-Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Defense-Awesome-v1.jpg
+Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Defense-Awesome-v2.jpg
 
 ## COMBAT REFERENCE: MOVEMENT
 
@@ -38,11 +38,11 @@ Nachher: Text unverändert; diesen Block am Seitenende unmittelbar vor dem näch
 
 ```md
 <div class="technicalArt" style="position:absolute;left:17mm;bottom:23mm;width:176mm;height:70mm;margin:0;">
-<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Movement-Javelin-v1.jpg" alt="Javelin JVN-10N jumping across a forest ravine" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
+<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Movement-Javelin-Urban-v2.jpg" alt="Javelin JVN-10N walking through industrial ruins" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
 </div>
 ```
 
-Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Movement-Javelin-v1.jpg
+Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Movement-Javelin-Urban-v2.jpg
 
 ## KINTARO–LONGBOW
 
@@ -52,27 +52,33 @@ Nachher: Text unverändert; diesen Block am Seitenende unmittelbar vor dem näch
 
 ```md
 <div class="technicalArt" style="position:absolute;left:17mm;bottom:23mm;width:176mm;height:85mm;margin:0;">
-<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Catalogue-Longbow-v1.jpg" alt="Longbow on a desert plateau" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
+<img src="https://raw.githubusercontent.com/helmutlukasczyk-coder/ironbound/main/IRONBOUND-Catalogue-Longbow-v2.jpg" alt="Longbow on a desert plateau" style="width:100%;height:100%;max-width:none;max-height:none;object-fit:cover;object-position:50% 50%;">
 </div>
 ```
 
-Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Catalogue-Longbow-v1.jpg
+Lokaler Bildpfad: /workspace/scratch/3986544a664d/output/ironbound-art/IRONBOUND-Catalogue-Longbow-v2.jpg
 
-## Verwendete Prompts
+## Bildprüfung und Korrektur
 
-### support
+Die v1-Mechbilder wurden durch v2 ersetzt. Das Klippensprung-Motiv entfällt. Der neue Javelin bewegt sich am Boden durch ein Industrieviertel. Awesome-Schulterpanzerung und Longbow-Werfer wurden anhand direkter Spielreferenzen überarbeitet. Illustrative Annäherung, keine geometrisch exakten Modellrenders.
 
-Use case: illustration-story. Create one panoramic 2:1 illustration for IRONBOUND BattleTech mercenary rulebook, Support and Starting Transport. Match the supplied image ONLY for crisp cinematic realistic painted rendering, weathered industrial materials and restrained orange/blue lighting; do not reuse its people, mech or hangar composition. Scene: rainy outdoor spaceport at blue hour, a small mercenary ground crew loading sealed equipment crates onto the lowered cargo ramp of a distant canonical Leopard DropShip from MechWarrior 5 Mercenaries. Main foreground characters: stocky older bald male quartermaster with grey moustache in oil-stained coveralls checking a paper manifest; thin female cargo handler aged 45 with short copper hair and industrial work gloves guides a pallet trolley. Faces natural, imperfect and entirely distinct; practical work clothes, no glamour poses. Workers tiny compared to ship. Focus on logistics, crates, cables, wet concrete. No visible BattleMech, no weapons firing, no invented spaceship, no text, watermark or frame. Clear readable composition at small print size.
+Referenzen:
+- Awesome AWS-8Q: https://gamepedia.cursecdn.com/mwo_gamepedia/e/e5/AWS-8Q.png
+- Javelin: https://static.mwomercs.com/packages/javelin/img/concept-javelin-std.png
+- Longbow LGB-7Q: https://mw5mercs.com/news/2023/09/87-longbow-loadouts
 
-### defense
+Erzeugung: eingebautes ImageGen-Werkzeug.
 
-Use case: illustration-story. One wide 2:1 BattleTech rulebook illustration: an Awesome AWS-8Q defending a remote settlement in a snowstorm at dusk. Canonical MechWarrior Online / MechWarrior 5 Mercenaries original Awesome AWS-8Q design: huge broad blocky 80-ton upright assault mech, recessed small head between slab shoulders, PPC right arm and two torso PPC housings, left hand; no missile racks, no jump jets, no invented advanced equipment. Weathered dark navy armor with muted ochre recognition stripe. Three-quarter front view, whole mech readable, planted on snowy road between low intact unarmed settlement warehouses, with protective berms and distant dark mountains. No other mechs or people visible. A distant impact outside settlement provides orange glow, mech is guarding rather than destroying friendly structures. Render as crisp cinematic realistically painted science fiction with physically credible weathered metal. Cool snow, warm habitation windows. No text, no HUD, no borders, no watermarks. This is a NEW image without visual reference. Awesome's head is small and recessed INSIDE the broad nearly rectangular torso, massively thick curved shoulders rising above the head. Right arm ends in one cylindrical PPC barrel, left arm ends in a fist. Both chest sides contain forward facing round PPC muzzles. NO shoulder cannon, NO shoulder missile racks, NO external human-like head with yellow visor; it is NOT a Shadow Hawk.
+## Prompts der überarbeiteten Bilder
 
-### movement
+### awesome
 
-Use case: illustration-story. One wide 2:1 BattleTech rulebook illustration for movement reference: a canonical Javelin JVN-10N light 30-ton BattleMech as portrayed in MechWarrior Online and MechWarrior 5 Mercenaries jumps across a narrow rocky ravine in a lush temperate mountain forest at bright morning. Original recognizable narrow angular small humanoid Javelin torso with compact recessed head, two torso six-tube SRM racks, slim articulated arms and powerful digitigrade-looking mechanical lower legs. No handheld guns, no extra weapons, no wings. Mech in clear airborne side three-quarter profile, jump exhaust jets directed downward from stock rear/leg jets, legs slightly tucked; both takeoff ledge and dry rocky landing ledge visible. No water beneath feet, no attacks while jumping, no other mechs or people. Worn pale sand armor with dark green panels. Render as crisp cinematic realistically painted science fiction with physically credible weathered metal. Clear controlled motion, physically plausible balance and weight. No text, no diagram labels, no HUD or border. The attached image is ONLY the authoritative chassis geometry reference. Preserve that exact mech silhouette and all key parts, no hybridization. Render it in a realistic cinematic painterly medium, rather than the reference's line art. Do not reuse the previous generated mech.
+Create a new 2:1 wide illustration for BattleTech IRONBOUND rulebook. The FIRST attached image is the authoritative MechWarrior Online Awesome AWS-8Q visual reference. Match that chassis exactly: small low central cockpit recessed into wide torso, two broad bevelled shoulder blocks with OUTWARD-slanting outer armor plates rather than tall upright boxes, substantial trapezoidal chest, round PPC in each lower side torso, right forearm PPC, left hand. Stock chassis proportions, heavy legs and feet. No redesign or new parts. The SECOND image supplies ONLY the snow settlement scenario, dark blue and ochre color scheme and realistic cinematic painted rendering. Replace its incorrect mech with the exact first reference chassis in natural three-quarter pose. Snowy remote village guarded at dusk, warm lights in intact low buildings, mountain backdrop, no other units or people, no text, UI or watermarks. Keep full mech within frame with margins. Prioritize fidelity of silhouette and panel shapes to first reference.
 
 ### longbow
 
-Use case: illustration-story. One wide 2:1 BattleTech mercenary rulebook catalogue illustration: a Longbow LGB-7Q, stock pre-3050 Inner Sphere missile support mech, in canonical MechWarrior 5 Mercenaries / MechWarrior Online visual language. Preserve recognizable classic Longbow silhouette: small central cockpit, massive paired rounded drum-like missile launcher arms on either side with clear grouped circular missile launch tubes facing forward, smaller torso LRM housings, broad heavy legs. This is NOT Catapult, Archer or Timber Wolf. No hands or gun barrels replacing launcher arms, no clan technology, no advanced weapon additions. Full mech three-quarter view waiting on a dry dusty ochre mesa above a red-rock canyon at golden sunset; no firing missiles. Faded olive armor, small dull red maintenance panels, scale supplied by tiny desert scrub. No people or other mechs. Render as crisp cinematic realistically painted science fiction with physically credible weathered metal. Wide balanced readable silhouette. No typography, labels, HUD, frame or watermark. The attached image is ONLY the authoritative chassis geometry reference. Preserve that exact mech silhouette and all key parts, no hybridization. Render it in a realistic cinematic painterly medium, rather than the reference's line art. Do not reuse the previous generated mech.
+Create one panoramic 2:1 realistic cinematic painted BattleTech illustration for IRONBOUND. FIRST image is AUTHORITATIVE original MechWarrior 5 Mercenaries Longbow LGB-7Q chassis reference, from official developer loadout sheet. Reproduce EXACT model geometry and launcher layout from that game screenshot: very wide torso, squat compact central cockpit above chest, circular drum launcher arms each with a dense array of SMALL launch tubes in groups around the central armored hub like in reference. No giant eight-hole revolver cylinders. Include the two smaller five-tube LRM housings on the upper torso just inside the arm drums, and small medium-laser apertures. Two LRM20 arm launchers plus two torso LRM5 housings. Preserve mechanical silhouettes, limb shapes, proportions and sensor mast of official reference. SECOND attached image is ONLY scenario, palette and realistic painted style reference; replace its incorrect mech with first reference geometry. Worn olive and muted red paint, standing on a flat desert plateau with distant red sandstone mesas at sunset, no firing, no other mechs or people, no text or HUD or panels. This is a single scene, not a screenshot or collage.
 
+### javelin
+
+Generate a new single wide 2:1 illustration for BattleTech IRONBOUND movement rules. Attached image is authoritative MechWarrior Online Javelin standard chassis geometry reference. Keep this exact recognizable Javelin model: narrow humanoid light mech, raised small forward visor head, circular shoulder pivots, slim arms with hands, SIX small SRM launch apertures recessed in each side of the chest (two columns of three per side), slim articulated legs and flat mechanical feet. Stock JVN-10N configuration, no new parts. Scene: Javelin cautiously WALKING at ground level around the corner of a bomb-damaged brick factory in an abandoned industrial city after rain. One foot stepping over a low patch of rubble, other foot firmly planted on street. Broken masonry, puddles, overhead pipes and distant buildings; tight street environment shows need to choose movement routes. Worn faded sand and forest green armor. Crisp cinematic realistic painted rendering, detailed heavy metal and natural daylight, serious grounded military sci-fi. Full mech from slightly low three-quarter viewpoint. No cliff, no mountain panorama, no jumping, no jet exhaust, no shooting, no human figures, no other mechs, no text, HUD, border or watermark.
